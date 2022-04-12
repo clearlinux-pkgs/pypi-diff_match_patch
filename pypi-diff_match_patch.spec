@@ -4,7 +4,7 @@
 #
 Name     : pypi-diff_match_patch
 Version  : 20200713
-Release  : 21
+Release  : 22
 URL      : https://files.pythonhosted.org/packages/f0/1e/48ba888757d3f63ff35536e3e73e05c8a20d701e2b4fcbe4b17c29a2408d/diff-match-patch-20200713.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f0/1e/48ba888757d3f63ff35536e3e73e05c8a20d701e2b4fcbe4b17c29a2408d/diff-match-patch-20200713.tar.gz
 Summary  : Repackaging of Google's Diff Match and Patch libraries. Offers robust algorithms to perform the operations required for synchronizing plain text.
@@ -14,9 +14,6 @@ Requires: pypi-diff_match_patch-license = %{version}-%{release}
 Requires: pypi-diff_match_patch-python = %{version}-%{release}
 Requires: pypi-diff_match_patch-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-Provides: diff-match-patch
-Provides: diff-match-patch-python
-Provides: diff-match-patch-python3
 BuildRequires : pypi(setuptools)
 
 %description
@@ -58,7 +55,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641431857
+export SOURCE_DATE_EPOCH=1649737264
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
