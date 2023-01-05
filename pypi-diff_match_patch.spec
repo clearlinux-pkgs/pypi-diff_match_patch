@@ -4,7 +4,7 @@
 #
 Name     : pypi-diff_match_patch
 Version  : 20200713
-Release  : 31
+Release  : 32
 URL      : https://files.pythonhosted.org/packages/f0/1e/48ba888757d3f63ff35536e3e73e05c8a20d701e2b4fcbe4b17c29a2408d/diff-match-patch-20200713.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f0/1e/48ba888757d3f63ff35536e3e73e05c8a20d701e2b4fcbe4b17c29a2408d/diff-match-patch-20200713.tar.gz
 Summary  : Repackaging of Google's Diff Match and Patch libraries. Offers robust algorithms to perform the operations required for synchronizing plain text.
