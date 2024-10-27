@@ -7,7 +7,7 @@
 #
 Name     : pypi-diff_match_patch
 Version  : 20241021
-Release  : 37
+Release  : 38
 URL      : https://files.pythonhosted.org/packages/0e/ad/32e1777dd57d8e85fa31e3a243af66c538245b8d64b7265bec9a61f2ca33/diff_match_patch-20241021.tar.gz
 Source0  : https://files.pythonhosted.org/packages/0e/ad/32e1777dd57d8e85fa31e3a243af66c538245b8d64b7265bec9a61f2ca33/diff_match_patch-20241021.tar.gz
 Summary  : Repackaging of Google's Diff Match and Patch libraries.
